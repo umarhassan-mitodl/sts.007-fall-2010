@@ -4,6 +4,8 @@ description: This resource contains reading questions for Christian, maps of tim
 file: /courses/sts-007-technology-in-history-fall-2010/cd2316595863e51965db3de46e7bcb48_MITSTS_007F10_read20.pdf
 file_size: 28328
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

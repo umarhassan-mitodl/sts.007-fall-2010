@@ -4,6 +4,8 @@ description: This resource contains reading notes for class 1.
 file: /courses/sts-007-technology-in-history-fall-2010/7867a2a3f220b74ff0c4838e0139ac50_MITSTS_007F10_read01.pdf
 file_size: 28245
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

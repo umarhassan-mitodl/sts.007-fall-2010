@@ -4,6 +4,8 @@ description: New image Upload
 file: /courses/sts-007-technology-in-history-fall-2010/fd8c67bb5a70112f7786d4aed5f49de4_sts-007f10-th.jpg
 file_size: 6319
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: A corliss steam engine in the Energy Hall at the London Museum of Science.
     (Photo courtesy of meddie on Flickr.)

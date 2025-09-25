@@ -4,6 +4,8 @@ description: This resource contains information about industry to battlefield.
 file: /courses/sts-007-technology-in-history-fall-2010/b8bd3eb845a7107aab72ac0077dc2591_MITSTS_007F10_lec20_notes.pdf
 file_size: 47358
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

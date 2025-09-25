@@ -5,6 +5,8 @@ description: 'This resource contains information about looking back and beyond: 
 file: /courses/sts-007-technology-in-history-fall-2010/19a15bcac49f007e343b3fce70bc92c4_MITSTS_007F10_lec25_review.pdf
 file_size: 39246
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

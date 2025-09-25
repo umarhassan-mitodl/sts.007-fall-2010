@@ -4,6 +4,8 @@ description: This resource contains reading questions on Christian, chapter 9.
 file: /courses/sts-007-technology-in-history-fall-2010/cd61145678b50271e0b3ddc0d1c0d5a4_MITSTS_007F10_read09.pdf
 file_size: 27938
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

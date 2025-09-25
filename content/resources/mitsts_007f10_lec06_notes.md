@@ -4,6 +4,8 @@ description: This resource contains information about the neolithic revolution.
 file: /courses/sts-007-technology-in-history-fall-2010/ae9b46872b750c4e7274489b59090aa9_MITSTS_007F10_lec06_notes.pdf
 file_size: 55830
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

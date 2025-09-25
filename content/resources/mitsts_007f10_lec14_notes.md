@@ -4,6 +4,8 @@ description: This resource contains information about industrial revolution.
 file: /courses/sts-007-technology-in-history-fall-2010/0026817095acc73012f31119b10ec8fa_MITSTS_007F10_lec14_notes.pdf
 file_size: 58231
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

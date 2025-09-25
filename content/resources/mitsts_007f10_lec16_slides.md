@@ -5,6 +5,8 @@ description: This resource contains information about the Second industrial revo
 file: /courses/sts-007-technology-in-history-fall-2010/7c64f4981155affec79303a4fe0131aa_MITSTS_007F10_lec16_slides.pdf
 file_size: 2589220
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -3,6 +3,8 @@ content_type: page
 description: This section lists the reading assignments for each class session, and
   includes notes on readings for selected sessions.
 draft: false
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

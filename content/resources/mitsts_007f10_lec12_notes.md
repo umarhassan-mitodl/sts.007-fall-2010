@@ -4,6 +4,8 @@ description: This resource contains information about megalithic agrarian civili
 file: /courses/sts-007-technology-in-history-fall-2010/838073c408001bff34a9b70e9f93f065_MITSTS_007F10_lec12_notes.pdf
 file_size: 126585
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

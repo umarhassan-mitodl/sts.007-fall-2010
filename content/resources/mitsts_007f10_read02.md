@@ -5,6 +5,8 @@ description: This resource contains reading notes for David Christian, maps of t
 file: /courses/sts-007-technology-in-history-fall-2010/c80fdf8af862dc0af4b434ac286dfa96_MITSTS_007F10_read02.pdf
 file_size: 102985
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

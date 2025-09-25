@@ -5,6 +5,8 @@ description: This resource contains information related to long trends in the er
 file: /courses/sts-007-technology-in-history-fall-2010/c3b2d2119b92b398623256f17a1b378b_MITSTS_007F10_read10.pdf
 file_size: 31576
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

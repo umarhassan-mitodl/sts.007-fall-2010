@@ -4,6 +4,8 @@ description: This resource contains information about technology in "prehistory"
 file: /courses/sts-007-technology-in-history-fall-2010/774380fae8b7cb3b05140a4dd85ff9ac_MITSTS_007F10_lec04_slides.pdf
 file_size: 204574
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

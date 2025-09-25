@@ -4,6 +4,8 @@ description: This resource contains information about civilizations and empires.
 file: /courses/sts-007-technology-in-history-fall-2010/c9657de16c6157e5b4774288ef98ae57_MITSTS_007F10_lec09_slides.pdf
 file_size: 40358
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: This resource contains reading questions on Christian, maps of time
 file: /courses/sts-007-technology-in-history-fall-2010/cfdf8aa26bca6a98ebb39764440571fd_MITSTS_007F10_read11.pdf
 file_size: 27154
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

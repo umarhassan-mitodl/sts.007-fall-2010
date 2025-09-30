@@ -5,6 +5,8 @@ description: This resource contains information about what is technology? what i
 file: /courses/sts-007-technology-in-history-fall-2010/7d1e7388e6c0c5d54e9d70e7a7149182_MITSTS_007F10_lec02_slides.pdf
 file_size: 1004872
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
